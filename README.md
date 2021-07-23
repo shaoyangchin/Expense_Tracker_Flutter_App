@@ -1,16 +1,3 @@
-# expense_tracker
+# Personal Expense Tracker Mobile Application
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Users are able to track their personal expenses for the past 1 week. Users will be able to manually add their expenses periodically and the app helps them keep their finances in check, to ensure they are aware of their daily spendings.
